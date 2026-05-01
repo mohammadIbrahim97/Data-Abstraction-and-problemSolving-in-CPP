@@ -11,6 +11,10 @@ Counter::Counter() : count(0){};
 void Counter::increment() {
     ++count;
 }
+
+void Counter::reset() {
+    count = 1;
+}
 void Counter::decrement() {
     --count;
 }

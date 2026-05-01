@@ -1,0 +1,4 @@
+/snap/clion/439/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/439/bin/ninja/linux/x64/ninja -G Ninja -S "/home/mohammadibrahim/Documents/MohammadValut/MohammadValut/002 Courses/Data Abstraction & Problem solving C++/1.1Module-C++ Essentials" -B "/home/mohammadibrahim/Documents/MohammadValut/MohammadValut/002 Courses/Data Abstraction & Problem solving C++/1.1Module-C++ Essentials/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mohammadibrahim/Documents/MohammadValut/MohammadValut/002 Courses/Data Abstraction & Problem solving C++/1.1Module-C++ Essentials/cmake-build-debug
